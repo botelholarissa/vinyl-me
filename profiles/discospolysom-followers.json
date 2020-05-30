@@ -1,0 +1,319 @@
+
+{
+
+    "data": {
+        "user": {
+            "edge_followed_by": {
+                "count": 14767,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "QVFBUzI5QnUtM0JIeGY0TG9rSF9VRDRBOERiTGR2Rm91SDdFSWhvMXRIVlpKSzVmdWxSUHNDT2ZRb3BJT3JjUjExbzVPVDlnbXJoMFBzSHYtT3I1UzZQMw=="
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "2062216185",
+                            "username": "almiranteshiva",
+                            "full_name": "Almirante Shiva",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/11379841_1676355035931547_639895285_a.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=4FYSD5UhAVMAX-wT7jv&oh=8a6ec7ebe78ef25b56d3aaeb89dbfecf&oe=5EFA9A0C",
+                            "is_private": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "2062216185",
+                                "expiring_at": 1590959484,
+                                "has_pride_media": false,
+                                "latest_reel_media": 0,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "2062216185",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/11379841_1676355035931547_639895285_a.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=4FYSD5UhAVMAX-wT7jv&oh=8a6ec7ebe78ef25b56d3aaeb89dbfecf&oe=5EFA9A0C",
+                                    "username": "almiranteshiva"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "35536925061",
+                            "username": "lava_rapido_maximo_brilho",
+                            "full_name": "Lava Rapido Maximo Brilho",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/97054820_276266196873976_2974797252331044864_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=4atolqr81fwAX84Diha&oh=714394d7d1cbdde8a1d5465ecacf3341&oe=5EFE06B9",
+                            "is_private": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "35536925061",
+                                "expiring_at": 1590959484,
+                                "has_pride_media": false,
+                                "latest_reel_media": 0,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "35536925061",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/97054820_276266196873976_2974797252331044864_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=4atolqr81fwAX84Diha&oh=714394d7d1cbdde8a1d5465ecacf3341&oe=5EFE06B9",
+                                    "username": "lava_rapido_maximo_brilho"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "5849966812",
+                            "username": "lpsdorafa",
+                            "full_name": "Rafa",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/100086561_820432885031554_7033140626602328064_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=c2Y1Pk1Gec4AX-08jkJ&oh=08d30bd92f4fe2e5d7ac5fe2a7d6eab9&oe=5EFA8E73",
+                            "is_private": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "5849966812",
+                                "expiring_at": 1590959484,
+                                "has_pride_media": false,
+                                "latest_reel_media": 0,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "5849966812",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/100086561_820432885031554_7033140626602328064_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=c2Y1Pk1Gec4AX-08jkJ&oh=08d30bd92f4fe2e5d7ac5fe2a7d6eab9&oe=5EFA8E73",
+                                    "username": "lpsdorafa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "25024553734",
+                            "username": "pepy_albertbr",
+                            "full_name": "Jhonnathan (Pepy)",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/90094471_866891667092640_4826426871329587200_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=9gkuJtziwYoAX_7r4pk&oh=a401eabe95d10162a56f9e22dcbf594f&oe=5EFD2AE7",
+                            "is_private": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "25024553734",
+                                "expiring_at": 1590959484,
+                                "has_pride_media": false,
+                                "latest_reel_media": 1590791512,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "25024553734",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/90094471_866891667092640_4826426871329587200_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=9gkuJtziwYoAX_7r4pk&oh=a401eabe95d10162a56f9e22dcbf594f&oe=5EFD2AE7",
+                                    "username": "pepy_albertbr"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "5672736812",
+                            "username": "pontograficarj",
+                            "full_name": "Ponto Gráfica",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/72687743_718423771991570_7025857886781702144_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=1QgQX5tFMucAX9tnn32&oh=3c4317e73cd4eec7d21803460056bcbe&oe=5EFB2549",
+                            "is_private": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "5672736812",
+                                "expiring_at": 1590959484,
+                                "has_pride_media": false,
+                                "latest_reel_media": 0,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "5672736812",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/72687743_718423771991570_7025857886781702144_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=1QgQX5tFMucAX9tnn32&oh=3c4317e73cd4eec7d21803460056bcbe&oe=5EFB2549",
+                                    "username": "pontograficarj"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "19291292",
+                            "username": "danilopes_",
+                            "full_name": "Daniele Lopes",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/96673724_189224448867491_2218776192398393344_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=9jjYhw0psqkAX8aYqvJ&oh=68bcb62c469da629febb377903f6d845&oe=5EFC808C",
+                            "is_private": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "19291292",
+                                "expiring_at": 1590959484,
+                                "has_pride_media": false,
+                                "latest_reel_media": 0,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "19291292",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/96673724_189224448867491_2218776192398393344_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=9jjYhw0psqkAX8aYqvJ&oh=68bcb62c469da629febb377903f6d845&oe=5EFC808C",
+                                    "username": "danilopes_"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "6883708055",
+                            "username": "gtborges_",
+                            "full_name": "Guilherme",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/91362772_533517670932200_5348577852369403904_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=pAaMbV3iW3kAX-qpPge&oh=271feb24f3eefd83f709dd9da74a64ae&oe=5EFB2126",
+                            "is_private": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "6883708055",
+                                "expiring_at": 1590959484,
+                                "has_pride_media": false,
+                                "latest_reel_media": 0,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "6883708055",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/91362772_533517670932200_5348577852369403904_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=pAaMbV3iW3kAX-qpPge&oh=271feb24f3eefd83f709dd9da74a64ae&oe=5EFB2126",
+                                    "username": "gtborges_"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "189478054",
+                            "username": "robertafelipearcoverde",
+                            "full_name": "Beta 🌹",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/60597866_1160426864162129_4899212393604710400_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=4er_TpXiCcwAX8ogxe7&oh=e96f06c662b0e47c8d6cb68d2cf6d2b4&oe=5EFACA73",
+                            "is_private": true,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "189478054",
+                                "expiring_at": 1590959484,
+                                "has_pride_media": false,
+                                "latest_reel_media": null,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "189478054",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/60597866_1160426864162129_4899212393604710400_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=4er_TpXiCcwAX8ogxe7&oh=e96f06c662b0e47c8d6cb68d2cf6d2b4&oe=5EFACA73",
+                                    "username": "robertafelipearcoverde"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "11045050186",
+                            "username": "apenascarloskadu",
+                            "full_name": "Apenas Kadu",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/74676928_823436658089307_4898232977852465152_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=eGdy5HpuU4YAX-r0TGb&oh=e2643c7aa875b8d1af985059a6454af9&oe=5EFBE585",
+                            "is_private": true,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "11045050186",
+                                "expiring_at": 1590959484,
+                                "has_pride_media": false,
+                                "latest_reel_media": null,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "11045050186",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/74676928_823436658089307_4898232977852465152_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=eGdy5HpuU4YAX-r0TGb&oh=e2643c7aa875b8d1af985059a6454af9&oe=5EFBE585",
+                                    "username": "apenascarloskadu"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1107657761",
+                            "username": "admilton.farias",
+                            "full_name": "Admilton Farias ⚖️",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/99155135_695750937924779_5114423313497587712_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=fDCJfkk_VzQAX-Hj5d0&oh=5acc71e6b2ffa776ceb27844dbb5313d&oe=5EFC9EF3",
+                            "is_private": true,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "1107657761",
+                                "expiring_at": 1590959484,
+                                "has_pride_media": false,
+                                "latest_reel_media": null,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "1107657761",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/99155135_695750937924779_5114423313497587712_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=fDCJfkk_VzQAX-Hj5d0&oh=5acc71e6b2ffa776ceb27844dbb5313d&oe=5EFC9EF3",
+                                    "username": "admilton.farias"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "35554412394",
+                            "username": "coebrou",
+                            "full_name": "Old Archive",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/101292692_2586203888362527_1667945614484176896_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=3yuhWYAY4pkAX-ptS2x&oh=9ee0f63d66d3d0b46a1bc8c99069cd12&oe=5EFB0671",
+                            "is_private": true,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "35554412394",
+                                "expiring_at": 1590959484,
+                                "has_pride_media": false,
+                                "latest_reel_media": null,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "35554412394",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/101292692_2586203888362527_1667945614484176896_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=3yuhWYAY4pkAX-ptS2x&oh=9ee0f63d66d3d0b46a1bc8c99069cd12&oe=5EFB0671",
+                                    "username": "coebrou"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "34921019345",
+                            "username": "lucivaniask8",
+                            "full_name": "lucivania Carvalho",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/96422912_253429466017123_5424646327386505216_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=boRSyyMJDn8AX-xGnoK&oh=92475d09f08c53d8cd722d9cd76d1697&oe=5EFBCC2F",
+                            "is_private": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "34921019345",
+                                "expiring_at": 1590959484,
+                                "has_pride_media": false,
+                                "latest_reel_media": 0,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "34921019345",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/96422912_253429466017123_5424646327386505216_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=boRSyyMJDn8AX-xGnoK&oh=92475d09f08c53d8cd722d9cd76d1697&oe=5EFBCC2F",
+                                    "username": "lucivaniask8"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+
+}

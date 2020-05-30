@@ -1,0 +1,319 @@
+
+{
+
+    "data": {
+        "user": {
+            "edge_followed_by": {
+                "count": 3444,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "QVFDcTF6YmxTUkxNMG9JM1F3YVJZejNTN2NNN0d5ZGFpRFk2d21lTzVCQmRkYVdjRTRzZlhGZGR4c2ZuMTI3czRzcE5MODRITHNvSElNWkF2ZXBZMEEtWg=="
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "19098519962",
+                            "username": "vitrolanapraia",
+                            "full_name": "Vitrola na Praia 100% vinil",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/73181898_2717164638377813_7764956221517332480_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=InwfZi2bZgwAX9Mn6Q0&oh=1c2f465b75c94beaa4c33e30559303ec&oe=5EFD9B3B",
+                            "is_private": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "19098519962",
+                                "expiring_at": 1590959452,
+                                "has_pride_media": false,
+                                "latest_reel_media": 1590791821,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "19098519962",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/73181898_2717164638377813_7764956221517332480_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=InwfZi2bZgwAX9Mn6Q0&oh=1c2f465b75c94beaa4c33e30559303ec&oe=5EFD9B3B",
+                                    "username": "vitrolanapraia"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "10510360581",
+                            "username": "tatioliverr_",
+                            "full_name": "Tati 🌞",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/50840539_2141945116117195_6584747226310901760_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=Y_1_3X6fvi0AX_gFxB8&oh=822d01697a44ee0cb2a9989ac6bc6133&oe=5EFBE9BF",
+                            "is_private": true,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "10510360581",
+                                "expiring_at": 1590959452,
+                                "has_pride_media": false,
+                                "latest_reel_media": null,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "10510360581",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/50840539_2141945116117195_6584747226310901760_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=Y_1_3X6fvi0AX_gFxB8&oh=822d01697a44ee0cb2a9989ac6bc6133&oe=5EFBE9BF",
+                                    "username": "tatioliverr_"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "32890445704",
+                            "username": "e.iwaszko",
+                            "full_name": "Evndr Iwszk",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/91312215_234262824434397_535315678572314624_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=f_IQUj3x7loAX_s3Fx2&oh=e10dfae8ca2077b42619d525f2714ad0&oe=5EFD5C89",
+                            "is_private": true,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "32890445704",
+                                "expiring_at": 1590959452,
+                                "has_pride_media": false,
+                                "latest_reel_media": null,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "32890445704",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/91312215_234262824434397_535315678572314624_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=f_IQUj3x7loAX_s3Fx2&oh=e10dfae8ca2077b42619d525f2714ad0&oe=5EFD5C89",
+                                    "username": "e.iwaszko"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1919465603",
+                            "username": "leilafrocha",
+                            "full_name": "Leila Rocha",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/100952391_686828375217328_7305419176389115904_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=9OAsdU40JzIAX8rS6vB&oh=06352ceb9610a11eafcca3a541694418&oe=5EFD2A60",
+                            "is_private": true,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "1919465603",
+                                "expiring_at": 1590959452,
+                                "has_pride_media": false,
+                                "latest_reel_media": null,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "1919465603",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/100952391_686828375217328_7305419176389115904_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=9OAsdU40JzIAX8rS6vB&oh=06352ceb9610a11eafcca3a541694418&oe=5EFD2A60",
+                                    "username": "leilafrocha"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "14922626752",
+                            "username": "musicarrecomenda",
+                            "full_name": "Musicar",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/62252062_2249275765385995_5005343182972518400_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=-gzRCMd-5oQAX-LdWTd&oh=f9afef768a5d118180f2992cd6f001b9&oe=5EFBFC79",
+                            "is_private": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "14922626752",
+                                "expiring_at": 1590959452,
+                                "has_pride_media": false,
+                                "latest_reel_media": 1590850970,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "14922626752",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/62252062_2249275765385995_5005343182972518400_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=-gzRCMd-5oQAX-LdWTd&oh=f9afef768a5d118180f2992cd6f001b9&oe=5EFBFC79",
+                                    "username": "musicarrecomenda"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "30967840324",
+                            "username": "paulaclapp",
+                            "full_name": "...",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/83935990_199099451471499_2502649251213869056_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=BH43N6SXJ_YAX90E9Cr&oh=4ee1bbbdf52fd219530ceaa35ca87960&oe=5EFE3F76",
+                            "is_private": true,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "30967840324",
+                                "expiring_at": 1590959452,
+                                "has_pride_media": false,
+                                "latest_reel_media": null,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "30967840324",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/83935990_199099451471499_2502649251213869056_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=BH43N6SXJ_YAX90E9Cr&oh=4ee1bbbdf52fd219530ceaa35ca87960&oe=5EFE3F76",
+                                    "username": "paulaclapp"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "12001288136",
+                            "username": "brechobecodiagonal_",
+                            "full_name": "Brechó Beco Diagonal",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/54511924_274043336833023_3654021092965613568_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=G_xOezr9bNUAX8bYHJY&oh=400a9082b441a788d4c6f23b653518e5&oe=5EFC63D1",
+                            "is_private": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "12001288136",
+                                "expiring_at": 1590959452,
+                                "has_pride_media": false,
+                                "latest_reel_media": 0,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "12001288136",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/54511924_274043336833023_3654021092965613568_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=G_xOezr9bNUAX8bYHJY&oh=400a9082b441a788d4c6f23b653518e5&oe=5EFC63D1",
+                                    "username": "brechobecodiagonal_"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1229253349",
+                            "username": "brenofreitas26",
+                            "full_name": "Breno Freitas",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/87421451_2561703427406684_8222816318139662336_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=gCSpkGn0DYAAX_R1K-P&oh=2bf62d819446eff707aa7381931c3bbe&oe=5EFD7F30",
+                            "is_private": true,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "1229253349",
+                                "expiring_at": 1590959452,
+                                "has_pride_media": false,
+                                "latest_reel_media": null,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "1229253349",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/87421451_2561703427406684_8222816318139662336_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=gCSpkGn0DYAAX_R1K-P&oh=2bf62d819446eff707aa7381931c3bbe&oe=5EFD7F30",
+                                    "username": "brenofreitas26"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "7818298991",
+                            "username": "derikmelchior",
+                            "full_name": "",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/97526904_1649042131927400_451932221415096320_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=TMlt2Ii20fAAX9La0mg&oh=fad4bafb98f730ed5e7fd49b1f2f34a5&oe=5EFD1AB7",
+                            "is_private": true,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "7818298991",
+                                "expiring_at": 1590959452,
+                                "has_pride_media": false,
+                                "latest_reel_media": null,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "7818298991",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/97526904_1649042131927400_451932221415096320_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=TMlt2Ii20fAAX9La0mg&oh=fad4bafb98f730ed5e7fd49b1f2f34a5&oe=5EFD1AB7",
+                                    "username": "derikmelchior"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "3507277",
+                            "username": "joaosolda",
+                            "full_name": "João Solda",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/44877608_1091595807668256_2861709814239592448_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=rD52Cm4DdlgAX-u-bgD&oh=422b965f7900cf4dd4ed47be0d2d9b09&oe=5EFBC514",
+                            "is_private": true,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "3507277",
+                                "expiring_at": 1590959452,
+                                "has_pride_media": false,
+                                "latest_reel_media": null,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "3507277",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/44877608_1091595807668256_2861709814239592448_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=rD52Cm4DdlgAX-u-bgD&oh=422b965f7900cf4dd4ed47be0d2d9b09&oe=5EFBC514",
+                                    "username": "joaosolda"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "3974433230",
+                            "username": "righifilho",
+                            "full_name": "Ricardo Righi Filho",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/14597479_1807076239509731_21746437326897152_a.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=SSL_0MdqElUAX9mUaLI&oh=049a340e77fd0b728db979aee2bc7bcf&oe=5EFAC42D",
+                            "is_private": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "3974433230",
+                                "expiring_at": 1590959452,
+                                "has_pride_media": false,
+                                "latest_reel_media": 0,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "3974433230",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/14597479_1807076239509731_21746437326897152_a.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=SSL_0MdqElUAX9mUaLI&oh=049a340e77fd0b728db979aee2bc7bcf&oe=5EFAC42D",
+                                    "username": "righifilho"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "232855930",
+                            "username": "andre_luiz_anselmo",
+                            "full_name": "Andre Anselmo",
+                            "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/51091080_557374694772558_8971075727923347456_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=s12-uinHIO8AX8vWLyh&oh=601daf5ddb195340c1cfd9ba6cf8fd66&oe=5EFDA297",
+                            "is_private": true,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "requested_by_viewer": false,
+                            "reel": {
+                                "id": "232855930",
+                                "expiring_at": 1590959452,
+                                "has_pride_media": false,
+                                "latest_reel_media": null,
+                                "seen": null,
+                                "owner": {
+                                    "__typename": "GraphUser",
+                                    "id": "232855930",
+                                    "profile_pic_url": "https://instagram.fbhz5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/51091080_557374694772558_8971075727923347456_n.jpg?_nc_ht=instagram.fbhz5-1.fna.fbcdn.net&_nc_ohc=s12-uinHIO8AX8vWLyh&oh=601daf5ddb195340c1cfd9ba6cf8fd66&oe=5EFDA297",
+                                    "username": "andre_luiz_anselmo"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+
+}
